@@ -1,0 +1,3 @@
+This directory contains exercises on more of memory allocation (malloc) as continued from yesterdays exercises in 0x0B-malloc-free...
+
+Enjoy
